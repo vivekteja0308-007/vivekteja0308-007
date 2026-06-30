@@ -68,3 +68,10 @@
 
 ---
 <p align="center"><i>Open to internship opportunities — building real projects while learning the fundamentals.</i></p>
+## My Contribution Graph
+
+<picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/vivekteja0308-007/vivekteja0308-007/output/pacman-contribution-graph-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/vivekteja0308-007/vivekteja0308-007/output/pacman-contribution-graph.svg">
+    <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/vivekteja0308-007/vivekteja0308-007/output/pacman-contribution-graph.svg">
+</picture>
