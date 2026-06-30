@@ -47,6 +47,16 @@
   <img src="https://github-readme-stats-eight-pi.vercel.app/api/top-langs/?username=vivekteja0308-007&layout=compact&theme=tokyonight&hide_border=true" width="50%" />
 </p>
 
+## My Contribution Graph
+
+<p align="center">
+<picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/vivekteja0308-007/vivekteja0308-007/output/pacman-contribution-graph-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/vivekteja0308-007/vivekteja0308-007/output/pacman-contribution-graph.svg">
+    <img alt="pacman contribution graph" width="100%" src="https://raw.githubusercontent.com/vivekteja0308-007/vivekteja0308-007/output/pacman-contribution-graph.svg">
+</picture>
+</p>
+
 ### 📈 Contribution Graph
 
 <p align="center">
@@ -68,10 +78,3 @@
 
 ---
 <p align="center"><i>Open to internship opportunities — building real projects while learning the fundamentals.</i></p>
-## My Contribution Graph
-
-<picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/vivekteja0308-007/vivekteja0308-007/output/pacman-contribution-graph-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/vivekteja0308-007/vivekteja0308-007/output/pacman-contribution-graph.svg">
-    <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/vivekteja0308-007/vivekteja0308-007/output/pacman-contribution-graph.svg">
-</picture>
