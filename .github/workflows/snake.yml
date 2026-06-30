@@ -17,8 +17,8 @@ jobs:
         with:
           github_user_name: vivekteja0308-007
           outputs: |
-            dist/github-snake.svg?color_snake=%232EE6D6&color_dots=%23161B22,%230E4429,%23006D32,%2326A641,%2339D353&color_background=%23ffffff
-            dist/github-snake-dark.svg?color_snake=%232EE6D6&color_dots=%23161B22,%230E4429,%23006D32,%2326A641,%2339D353&color_background=%230D1117
+            dist/github-snake.svg?color_snake=%23A855F7&color_dots=%23161B22,%231E1B4B,%234C1D95,%237C3AED,%23A855F7&color_background=%230D1117
+            dist/github-snake-dark.svg?color_snake=%2322D3EE&color_dots=%23161B22,%23164E63,%230E7490,%2306B6D4,%2322D3EE&color_background=%230D1117
       - uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
           target_branch: output
