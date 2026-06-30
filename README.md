@@ -1,4 +1,4 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,100:2EE6D6&height=200&section=header&text=Vivek%20Teja&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Building%20in%20AI%2FML%20%7C%20First-Year%20CSE&descAlignY=58&descSize=18" />
+<img width="150%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,100:2EE6D6&height=200&section=header&text=Vivek%20Teja&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Building%20in%20AI%2FML%20%7C%20First-Year%20CSE&descAlignY=58&descSize=18" />
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=800&color=2EE6D6&center=true&vCenter=true&width=600&lines=B.Tech+CSE+%40+Vardhaman+College+of+Engineering;Learning+DSA+in+C%2B%2B+%7C+Apna+College+Playlist;Building+AI+Agents+%7C+Kaggle+Intensive;Open+to+Internships+%E2%80%94+2nd+Year" alt="Typing SVG" />
@@ -10,6 +10,13 @@
 </p>
 
 ---
+
+### 👋 About Me
+
+- 🔭 Currently building **Pace** — a multi-agent DSA/certification tracker (Kaggle AI Agents Intensive)
+- 💬 Ask me about DSA in C++, AI Agents, or anything I'm currently learning
+- 🌱 Currently leveling up in AI Agents, Generative AI, and Data Analytics
+- 📫 Reach me at vivekteja0308@gmail.com
 
 ### 🚀 What I'm working on
 
@@ -59,12 +66,12 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats-eight-pi.vercel.app/api?username=vivekteja0308-007&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=vivekteja0308-007&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=vivekteja0308-007&theme=tokyonight&hide_border=true" width="48%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats-eight-pi.vercel.app/api/top-langs/?username=vivekteja0308-007&layout=compact&theme=tokyonight&hide_border=true" width="50%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vivekteja0308-007&layout=compact&theme=tokyonight&hide_border=true" width="50%" />
 </p>
 
 ### 📈 Contribution Graph
