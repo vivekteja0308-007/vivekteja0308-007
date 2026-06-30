@@ -1,4 +1,4 @@
-name: generate pacman game
+name: generate pacman game.
 on:
   schedule:
     - cron: "0 0 * * *"
