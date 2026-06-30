@@ -1,4 +1,4 @@
-<img width="150%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,100:2EE6D6&height=200&section=header&text=Vivek%20Teja&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Building%20in%20AI%2FML%20%7C%20First-Year%20CSE&descAlignY=58&descSize=18" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,100:2EE6D6&height=200&section=header&text=Vivek%20Teja&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Building%20in%20AI%2FML%20%7C%20First-Year%20CSE&descAlignY=58&descSize=18" />
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=800&color=2EE6D6&center=true&vCenter=true&width=600&lines=B.Tech+CSE+%40+Vardhaman+College+of+Engineering;Learning+DSA+in+C%2B%2B+%7C+Apna+College+Playlist;Building+AI+Agents+%7C+Kaggle+Intensive;Open+to+Internships+%E2%80%94+2nd+Year" alt="Typing SVG" />
@@ -46,33 +46,15 @@
 </picture>
 </p>
 
-# 🗺️ PROJECT: CHRONO-SERPENT
+## My Snake Garden
 
-<div align="center">
-  <!-- CHANGE 'YOUR_USERNAME' IN THE LINK BELOW TO YOUR ACTUAL GITHUB USERNAME -->
-  <img src="https://raw.githubusercontent.com/vivekteja0308-007/vivekteja0308-007/output/github-contribution-grid-snake-dark.svg" alt="GitHub Strike Snake" width="100%" />
-</div>
-
----
-
-## ⚡ SYSTEM STATUS: ACTIVE
-
-<div align="left">
-  <img src="https://img.shields.io/badge/GRID%20STATUS-OPERATIONAL-00FF66?style=for-the-badge&logo=github&logoColor=black" alt="Status"/>
-  <img src="https://img.shields.io/badge/SNAKE%20SPEED-MAXIMUM-FF0055?style=for-the-badge" alt="Speed"/>
-  <img src="https://img.shields.io/badge/UPDATED-DAILY-00E5FF?style=for-the-badge" alt="Update Frequency"/>
-</div>
-
-### 🕹️ Mission Objective
-> *Deploying an autonomous pixel-serpent to navigate the digital matrix of my GitHub contributions, devouring commits, and clearing the grid line by line.*
-
----
-
-## 📊 EXECUTING PROTOCOLS
-
-```text
-[==============] LOADING MATRIX RE-RENDER [100%]
-
+<p align="center">
+<picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/vivekteja0308-007/vivekteja0308-007/output/github-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/vivekteja0308-007/vivekteja0308-007/output/github-snake.svg">
+    <img alt="snake animation" width="100%" src="https://raw.githubusercontent.com/vivekteja0308-007/vivekteja0308-007/output/github-snake.svg">
+</picture>
+</p>
 
 ### 📊 GitHub Stats
 
