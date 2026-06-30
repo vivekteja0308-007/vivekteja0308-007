@@ -46,15 +46,33 @@
 </picture>
 </p>
 
-## My Snake Garden
+# 🗺️ PROJECT: CHRONO-SERPENT
 
-<p align="center">
-<picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/vivekteja0308-007/vivekteja0308-007/output/github-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/vivekteja0308-007/vivekteja0308-007/output/github-snake.svg">
-    <img alt="snake animation" width="100%" src="https://raw.githubusercontent.com/vivekteja0308-007/vivekteja0308-007/output/github-snake.svg">
-</picture>
-</p>
+<div align="center">
+  <!-- CHANGE 'YOUR_USERNAME' IN THE LINK BELOW TO YOUR ACTUAL GITHUB USERNAME -->
+  <img src="https://raw.githubusercontent.com/vivekteja0308-007/vivekteja0308-007/output/github-contribution-grid-snake-dark.svg" alt="GitHub Strike Snake" width="100%" />
+</div>
+
+---
+
+## ⚡ SYSTEM STATUS: ACTIVE
+
+<div align="left">
+  <img src="https://img.shields.io/badge/GRID%20STATUS-OPERATIONAL-00FF66?style=for-the-badge&logo=github&logoColor=black" alt="Status"/>
+  <img src="https://img.shields.io/badge/SNAKE%20SPEED-MAXIMUM-FF0055?style=for-the-badge" alt="Speed"/>
+  <img src="https://img.shields.io/badge/UPDATED-DAILY-00E5FF?style=for-the-badge" alt="Update Frequency"/>
+</div>
+
+### 🕹️ Mission Objective
+> *Deploying an autonomous pixel-serpent to navigate the digital matrix of my GitHub contributions, devouring commits, and clearing the grid line by line.*
+
+---
+
+## 📊 EXECUTING PROTOCOLS
+
+```text
+[==============] LOADING MATRIX RE-RENDER [100%]
+
 
 ### 📊 GitHub Stats
 
