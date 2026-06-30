@@ -1,4 +1,4 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,100:2EE6D6&height=200&section=header&text=Vivek%20Teja&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Building%20in%20AI%2FML%20%7C%20First-Year%20CSE&descAlignY=58&descSize=18" />
+<img width="150%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,100:2EE6D6&height=200&section=header&text=Vivek%20Teja&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Building%20in%20AI%2FML%20%7C%20First-Year%20CSE&descAlignY=58&descSize=18" />
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=800&color=2EE6D6&center=true&vCenter=true&width=600&lines=B.Tech+CSE+%40+Vardhaman+College+of+Engineering;Learning+DSA+in+C%2B%2B+%7C+Apna+College+Playlist;Building+AI+Agents+%7C+Kaggle+Intensive;Open+to+Internships+%E2%80%94+2nd+Year" alt="Typing SVG" />
@@ -36,6 +36,26 @@
   <img src="https://github-profile-trophy.vercel.app/?username=vivekteja0308-007&theme=tokyonight&no-frame=true&row=1&column=6" />
 </p>
 
+## My Contribution Graph
+
+<p align="center">
+<picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/vivekteja0308-007/vivekteja0308-007/output/pacman-contribution-graph-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/vivekteja0308-007/vivekteja0308-007/output/pacman-contribution-graph.svg">
+    <img alt="pacman contribution graph" width="100%" src="https://raw.githubusercontent.com/vivekteja0308-007/vivekteja0308-007/output/pacman-contribution-graph.svg">
+</picture>
+</p>
+
+## My Snake Garden
+
+<p align="center">
+<picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/vivekteja0308-007/vivekteja0308-007/output/github-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/vivekteja0308-007/vivekteja0308-007/output/github-snake.svg">
+    <img alt="snake animation" width="100%" src="https://raw.githubusercontent.com/vivekteja0308-007/vivekteja0308-007/output/github-snake.svg">
+</picture>
+</p>
+
 ### 📊 GitHub Stats
 
 <p align="center">
@@ -45,16 +65,6 @@
 
 <p align="center">
   <img src="https://github-readme-stats-eight-pi.vercel.app/api/top-langs/?username=vivekteja0308-007&layout=compact&theme=tokyonight&hide_border=true" width="50%" />
-</p>
-
-## My Contribution Graph
-
-<p align="center">
-<picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/vivekteja0308-007/vivekteja0308-007/output/pacman-contribution-graph-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/vivekteja0308-007/vivekteja0308-007/output/pacman-contribution-graph.svg">
-    <img alt="pacman contribution graph" width="100%" src="https://raw.githubusercontent.com/vivekteja0308-007/vivekteja0308-007/output/pacman-contribution-graph.svg">
-</picture>
 </p>
 
 ### 📈 Contribution Graph
