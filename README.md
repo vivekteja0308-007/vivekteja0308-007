@@ -43,15 +43,31 @@
   <img src="https://github-profile-trophy.vercel.app/?username=vivekteja0308-007&theme=tokyonight&no-frame=true&row=1&column=6" />
 </p>
 
-## My Contribution Graph
+# 🗺️ PROJECT: PACMAN-MATRIX
 
-<p align="center">
-<picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/vivekteja0308-007/vivekteja0308-007/output/pacman-contribution-graph-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/vivekteja0308-007/vivekteja0308-007/output/pacman-contribution-graph.svg">
-    <img alt="pacman contribution graph" width="100%" src="https://raw.githubusercontent.com/vivekteja0308-007/vivekteja0308-007/output/pacman-contribution-graph.svg">
-</picture>
-</p>
+<div align="center">
+  <img src="https://raw.githubusercontent.com/vivekteja0308-007/vivekteja0308-007/output/pacman-contribution-graph.svg" alt="GitHub Pacman Arcade" width="100%" />
+</div>
+
+---
+
+## ⚡ SYSTEM STATUS: ACTIVE
+
+<div align="left">
+  <img src="https://img.shields.io/badge/GRID%20STATUS-OPERATIONAL-00FF66?style=for-the-badge&logo=github&logoColor=black" alt="Status"/>
+  <img src="https://img.shields.io/badge/PAC--MAN%20MODE-GHOST%20HUNTER-FFCC00?style=for-the-badge" alt="Mode"/>
+  <img src="https://img.shields.io/badge/UPDATED-DAILY-00E5FF?style=for-the-badge" alt="Update Frequency"/>
+</div>
+
+### 🕹️ Mission Objective
+> *Deploying an autonomous retro dot-eater to navigate the digital maze of my GitHub contributions, consuming commits, dodging ghosts, and clearing the grid quarter by quarter.*
+
+---
+
+## 📊 EXECUTING PROTOCOLS
+
+```text
+[==============] LOADING ARCADE RENDER [100%]
 
 ## My Snake Garden
 
