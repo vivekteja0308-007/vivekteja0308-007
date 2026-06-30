@@ -1,29 +1,28 @@
-name: generate snake game
+name: Generate Snake Animation
+
 on:
   schedule:
     - cron: "0 0 * * *"
   workflow_dispatch:
-  push:
-    branches:
-      - main
 
 jobs:
   generate:
-    permissions:
-      contents: write
     runs-on: ubuntu-latest
+    timeout-minutes: 10
+    
     steps:
-      - uses: Platane/snk@v3
+      - name: Generate Snake SVG
+        uses: platane/snk@v3
         with:
-          github_user_name: vivekteja0308-007
+          github_user_name: ${{ github.repository_owner }}
           outputs: |
-            dist/github-snake.svg?color_snake=%23A855F7&color_dots=%23161B22,%231E1B4B,%234C1D95,%237C3AED,%23A855F7&color_background=%230D1117
-            dist/github-snake-dark.svg?color_snake=%2322D3EE&color_dots=%23161B22,%23164E63,%230E7490,%2306B6D4,%2322D3EE&color_background=%230D1117
- - uses: crazy-max/ghaction-github-pages@v3.1.0
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+
+      - name: Push Snake SVG to Output Branch
+        uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
           target_branch: output
           build_dir: dist
-          keep_history: true
-          fqdn: false
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
