@@ -27,3 +27,35 @@ Currently focused on:
 - 🌐 Full Stack Development
 - ☁️ Cloud Engineering
 - ⚡ High-Performance DSA
+
+## 💫 About Me
+
+I'm **Vivek Teja**, an AI-focused Full Stack Developer passionate about creating intelligent software that solves real-world challenges. I enjoy combining modern web technologies, cloud platforms, and Generative AI to build scalable, user-centric applications.
+
+Currently, I'm focused on developing AI-driven products, mastering advanced Data Structures & Algorithms, and exploring the next generation of Large Language Models, AI Agents, and cloud-native architectures.
+
+### 🚀 What I'm Building
+
+- 🧠 **MindMate** — AI-powered mood companion with personalized emotional support and insights.
+- 🤖 **NEXA** — Autonomous multi-agent AI platform for collaborative reasoning and intelligent decision-making.
+- ☀️ **Solar Flare Forecasting** — Deep learning research using Aditya-L1 X-ray data for early solar activity prediction.
+- ⚡ **DSA Optimization Lab** — High-performance algorithm implementations and competitive programming solutions.
+
+### 🌱 Currently Learning
+
+- Large Language Models (LLMs)
+- AI Agents & Multi-Agent Systems
+- Retrieval-Augmented Generation (RAG)
+- MLOps & Production AI
+- Kubernetes & Cloud Computing
+
+### 🤝 Open to Collaborate On
+
+- Artificial Intelligence
+- Generative AI
+- Full Stack Applications
+- Open Source Projects
+- Research & Innovation
+- Hackathons
+
+> *"Building intelligent software that creates real-world impact."*
