@@ -228,6 +228,12 @@ A collection of optimized Data Structures & Algorithms implementations emphasizi
 </div>
 
 
+# 📈 Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=vivekteja0308-007&theme=tokyo-night&hide_border=true&area=true"/>
+</p>
+
 # 🗺️ 2026 Roadmap
 
 <table>
