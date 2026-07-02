@@ -1,8 +1,12 @@
 <div align="center">
 
+<img src="./assets/banner.png" width="100%" alt="Vivek Teja Banner"/>
+
+<br><br>
+
 # 👋 Hi, I'm Vivek Teja
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=32&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&repeat=true&width=900&lines=AI+Engineer;Full+Stack+Developer;Generative+AI+Explorer;Cloud+Enthusiast;Open+Source+Contributor;Building+MindMate;Building+NEXA;Always+Learning+Something+New"/>
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=30&duration=3500&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=AI+Engineer;Full+Stack+Developer;Generative+AI+Explorer;Building+Intelligent+Software;Always+Learning+Something+New"/>
 
 <br>
 
