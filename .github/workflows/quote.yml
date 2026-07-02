@@ -1,1 +1,10 @@
-.
+name: Quote
+
+on:
+  workflow_dispatch:
+
+jobs:
+  quote:
+    runs-on: ubuntu-latest
+    steps:
+      - run: echo "Quote workflow placeholder."
