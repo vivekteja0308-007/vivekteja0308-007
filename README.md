@@ -24,11 +24,11 @@ I build AI-powered applications, scalable full-stack systems, and cloud-native s
 
 Currently focused on:
 
-- 🧠 Artificial Intelligence
-- 🤖 Generative AI & LLMs
-- 🌐 Full Stack Development
-- ☁️ Cloud Engineering
-- ⚡ High-Performance DSA
+ 🧠 Artificial Intelligence
+ 🤖 Generative AI & LLMs
+ 🌐 Full Stack Development
+ ☁️ Cloud Engineering
+ ⚡ High-Performance DSA
 
 ## 💫 About Me
 
