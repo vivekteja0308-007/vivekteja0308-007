@@ -24,7 +24,7 @@ I build AI-powered applications, scalable full-stack systems, and cloud-native s
 
 Currently focused on:
 
-  🧠 Artificial Intelligence
+  🧠 Artificial Intelligence-
   🤖 Generative AI & LLMs
   🌐 Full Stack Development
   ☁️ Cloud Engineering
