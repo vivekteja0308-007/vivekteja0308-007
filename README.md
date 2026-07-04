@@ -12,7 +12,7 @@
 
 <img src="./banner.png" width="100%" alt="Vivek Teja Banner"/>
 
-<br><br>
+<br>
 
 # 🚀 Engineering Intelligent Software for the Future
 
