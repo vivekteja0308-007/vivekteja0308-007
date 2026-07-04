@@ -7,12 +7,12 @@
 <img src="https://img.shields.io/github/stars/vivekteja0308-007?affiliations=OWNER&style=for-the-badge"/>
 
 </div>
-
+---
 <div align="center">
 
 <img src="./banner.png" width="100%" alt="Vivek Teja Banner"/>
 
-<br>
+---
 
 # 🚀 Engineering Intelligent Software for the Future
 
