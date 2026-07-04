@@ -2,7 +2,7 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=30&duration=3500&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=AI+Engineer;Full+Stack+Developer;Generative+AI+Explorer;Building+Intelligent+Software;Always+Learning+Something+New"/>
 
-<br>
+
 <img src="https://komarev.com/ghpvc/?username=vivekteja0308-007&label=Profile+Views&color=0e75b6&style=for-the-badge"/>
 
 <img src="https://img.shields.io/github/followers/vivekteja0308-007?style=for-the-badge"/>
