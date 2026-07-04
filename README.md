@@ -38,27 +38,28 @@ Currently, I'm focused on developing AI-driven products, mastering advanced Data
 
 ### 🚀 What I'm Building
 
-- 🧠 **MindMate** — AI-powered mood companion with personalized emotional support and insights.
-- 🤖 **NEXA** — Autonomous multi-agent AI platform for collaborative reasoning and intelligent decision-making.
-- ☀️ **Solar Flare Forecasting** — Deep learning research using Aditya-L1 X-ray data for early solar activity prediction.
-- ⚡ **DSA Optimization Lab** — High-performance algorithm implementations and competitive programming solutions.
+<br> 🥇 **Morvin-Axon** - An Emergent Multi-Agent Intelligence Platform Where AI Organizations Evolve Before They Solve.
+<br> 🧠 **MindMate** — AI-powered mood companion with personalized emotional support and insights.
+<br> 🤖 **NEXA** — Autonomous multi-agent AI platform for collaborative reasoning and intelligent decision-making.
+<br> ☀️ **Solar Flare Forecasting** — Deep learning research using Aditya-L1 X-ray data for early solar activity prediction.
+<br> ⚡ **DSA Optimization Lab** — High-performance algorithm implementations and competitive programming solutions.
 
 ### 🌱 Currently Learning
 
-- Large Language Models (LLMs)
-- AI Agents & Multi-Agent Systems
-- Retrieval-Augmented Generation (RAG)
-- MLOps & Production AI
-- Kubernetes & Cloud Computing
+<br> Large Language Models (LLMs)
+<br> AI Agents & Multi-Agent Systems
+<br> Retrieval-Augmented Generation (RAG)
+<br> MLOps & Production AI
+<br> Kubernetes & Cloud Computing
 
 ### 🤝 Open to Collaborate On
 
-- Artificial Intelligence
-- Generative AI
-- Full Stack Applications
-- Open Source Projects
-- Research & Innovation
-- Hackathons
+<br> Artificial Intelligence
+<br> Generative AI
+<br> Full Stack Applications
+<br> Open Source Projects
+<br> Research & Innovation
+<br> Hackathons
 
 > *"Building intelligent software that creates real-world impact."*
 
