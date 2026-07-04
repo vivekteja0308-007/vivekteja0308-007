@@ -46,7 +46,7 @@ Currently, I'm focused on developing AI-driven products, mastering advanced Data
 ### 🌱 Currently Learning
 
 - Large Language Models (LLMs)
-- AI Agents & Multi-Agent Systems
+ AI Agents & Multi-Agent Systems
 - Retrieval-Augmented Generation (RAG)
 - MLOps & Production AI
 - Kubernetes & Cloud Computing
