@@ -4,7 +4,6 @@
 
 
 <img src="https://komarev.com/ghpvc/?username=vivekteja0308-007&label=Profile+Views&color=0e75b6&style=for-the-badge"/>
-
 <img src="https://img.shields.io/github/followers/vivekteja0308-007?style=for-the-badge"/>
 
 <img src="https://img.shields.io/github/stars/vivekteja0308-007?affiliations=OWNER&style=for-the-badge"/>
