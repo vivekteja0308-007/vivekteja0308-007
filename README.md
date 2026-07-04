@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Vivek Teja
+## 👋 Hi, I'm Vivek Teja
 
 <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=30&duration=3500&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=AI+Engineer;Full+Stack+Developer;Generative+AI+Explorer;Building+Intelligent+Software;Always+Learning+Something+New"/>
 
@@ -179,19 +179,19 @@ A collection of optimized Data Structures & Algorithms implementations emphasizi
 
 ### 🎓 Professional Certifications
 
-- 🟢 Google Cloud & AI Certifications
-- 🔵 Microsoft AI & Cloud Certifications
-- 🟣 TCS iON Career Edge Certifications
-- 🟡 NASSCOM FutureSkills Prime Certifications *(In Progress)*
-- ⚪ Continuously expanding expertise through industry-recognized learning.
+<br>🟢 Google Cloud & AI Certifications
+<br>🔵 Microsoft AI & Cloud Certifications
+<br>🟣 TCS iON Career Edge Certifications
+<br>🟡 NASSCOM FutureSkills Prime Certifications *(In Progress)*
+<br>⚪ Continuously expanding expertise through industry-recognized learning.
 
 ### 🏆 Highlights
 
-- 🚀 Building AI-powered applications with real-world impact.
-- 🤖 Exploring Generative AI, LLMs, and Multi-Agent Systems.
-- ☀️ Researching AI solutions for Space Weather Forecasting.
-- ⚡ Strong focus on scalable software engineering and algorithm optimization.
-- 🌍 Active participant in hackathons, technical events, and open-source initiatives.
+<br>🚀 Building AI-powered applications with real-world impact.
+<br>🤖 Exploring Generative AI, LLMs, and Multi-Agent Systems.
+<br>☀️ Researching AI solutions for Space Weather Forecasting.
+<br>⚡ Strong focus on scalable software engineering and algorithm optimization.
+<br>🌍 Active participant in hackathons, technical events, and open-source initiatives.
 
 # 📊 GitHub Analytics
 
